@@ -1,0 +1,9 @@
+{
+    "name": "Slack",
+    "slug": "slack",
+    "description": "Integrate Tuesmon with Slack (https://slack.com)",
+    "type": "admin",
+    "module": "tuesmonContrib.slack",
+    "template": "/plugins/slack/slack.html",
+    "js": "/plugins/slack/slack.js"
+}
